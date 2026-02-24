@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Technical Consultant | Builder</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/mliinares" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
