@@ -9,9 +9,9 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-*I look at business problems and write the software to solve them.*
+I look at business problems and write the software to solve them.
 
 - 🔭 I’m currently working at **Odoo**, diving into complex workflows to build solutions that make customers' lives easier.
 - 🚀 **Founder** of **Recao**, a digital platform empowering local clothing retailers.
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -40,7 +40,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * 🛍️ **[Recao](https://recao.io/)**: Platform empowering local clothing retailers. *(Next.js, TypeScript, Supabase)*
 * ⛑️ **[Ajudadana.es](https://github.com/pedrolivaresanchez/emergency-cv)**: Volunteer in open-source emergency platform. *(Next.js, Supabase, Tailwind)*
